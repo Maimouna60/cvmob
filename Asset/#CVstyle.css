@@ -1,0 +1,5 @@
+html header {
+    background-image: url(https://www.bing.com/images/search?view=detailV2&ccid=iXScb55C&id=2CAD417645FE45AB8CB7EED0EF90D4E7F02AF156&thid=OIP.iXScb55CJZQQfzopeIB3WwHaEU&mediaurl=https%3a%2f%2fstatic.vecteezy.com%2fsystem%2fresources%2fpreviews%2f000%2f523%2f378%2fnon_2x%2fweb-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg&exph=490&expw=840&q=image+codage+web&simid=608021876717912594&selectedIndex=207&ajaxhist=0; )
+    background-repeat: no-repeat ; /*pas de répition de l'image*/
+    background-attachment: fixed ;
+}
